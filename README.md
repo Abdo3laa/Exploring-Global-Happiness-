@@ -1,25 +1,29 @@
 # Exploring Global Happiness
 
-1. Introduction 
-•	Overview of the topic (Happiness Index, Factors influencing happiness) 
-•	Key Factors Influencing Happiness: 
-2. Dataset Description 
-•	Source of the dataset 
-•	Time period covered 
-•	Variables included (Happiness score, GDP per capita, Social support, etc.) 
-3. Data Analysis 
-•	Global Distribution of Happiness Score. 
-•	Correlation analysis between variables 
+## Introduction
+- **Overview:** Introduction to the Happiness Index and its significance in assessing global well-being.
+- **Key Factors Influencing Happiness:** Discussion on the major factors contributing to happiness, such as economic conditions, social support, and life expectancy.
 
-4. Factors Influencing Happiness 
-          Correlation Matrix:
-•	showing the highest correlations between key variables (GDP per Capita, Social Support, Healthy Life Expectancy) and happiness scores.
-5. Case Studies 
-•	Comparing The Happiest 3 Countries With The Least 3 Happy Countries… 
-•	Reasons behind changes (economic factors, social policies,etc). 
-6. Conclusion 
-•	Summary of findings 
-•	Implications of the results 
+## Dataset Description
+- **Source:** Details of the dataset's origin.
+- **Time Period Covered:** The specific time frame the data represents.
+- **Variables Included:** Description of the key variables, such as Happiness Score, GDP per Capita, Social Support, and others.
 
-7. Q&A 
-	• 	Open floor for questions and discussions 
+## Data Analysis
+- **Global Distribution of Happiness Scores:** Analyzing the distribution of happiness scores across different regions.
+- **Correlation Analysis:** Examining the relationships between variables, focusing on how they correlate with happiness scores.
+
+## Factors Influencing Happiness
+- **Correlation Matrix:** Visual representation of the highest correlations between key variables like GDP per Capita, Social Support, Healthy Life Expectancy, and happiness scores.
+
+## Case Studies
+- **Comparison:** Analysis of the three happiest countries versus the three least happy countries.
+- **Underlying Reasons:** Exploration of the economic factors, social policies, and other reasons driving these differences.
+
+## Conclusion
+- **Summary of Findings:** Recap of the key insights gained from the analysis.
+- **Implications:** Discussion on the broader implications of the results for policy-making and societal well-being.
+
+## Q&A
+- **Open Discussion:** Opportunity for questions and discussions about the findings and methodology.
+
